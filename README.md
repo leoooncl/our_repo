@@ -1,2 +1,3 @@
 # our_repo
-This is our repository for the Git course
+This is our repository for the **Git** course at RZUW
+
